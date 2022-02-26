@@ -1,0 +1,83 @@
+header {
+    font-size: 50px;
+    background-color: aqua;
+}
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+body {
+    margin: 0;
+    
+}
+nav {
+    font-size: 25px;
+    background-color: burlywood;
+    word-spacing: 20px;
+}
+h3 {
+    font-size: 30px;
+}
+/* first div */
+#firstblock {
+    text-align: center;
+
+}
+
+/* second div */
+#secondblock {
+    text-align: center;
+}
+
+/* third div */
+#thirdblock {
+    background-color: chocolate;
+}
+
+h3 {
+    text-decoration: underline;
+}
+.ab {
+    height: 400px;
+    width: 300px;
+    border: solid black;
+}
+h2 {
+    margin-top: 0;
+    text-align: center;
+}
+
+.Ab {
+    font-size: 30px;
+}
+.x {
+    font-size: 25px;
+    text-align: center;
+}
+#A {
+    text-align: center;
+}
+#B {
+    text-align: center;
+}
+li {
+    list-style-type: none;
+}
+span {
+    font-size: 80px;
+}
+p{
+    font-size: 25px;
+}
+strong {
+    font-size: 20px;
+}
+.w {
+    height: 30px;
+    width: 1500px;
+}
+button {
+    position: absolute;
+    left: 800px;
+    font-size: 20px;
+}
